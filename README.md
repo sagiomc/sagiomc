@@ -3,6 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="./">Coming Soon...</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+
 [<img align="left" alt="sagiomc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="giovanni-santiago-371a6ba2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="gcmsantiago | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -10,11 +11,11 @@
 
 ### A little more about me...
 
-- ☸️I'm currently working with microservices architectures.
-- 🧐I'm always learning something new
-- 👯I'm looking to collaborate with other devs
-- 🥅2021 goals: To be alive and contribute more to Open Source Projects 👨🏽‍💻
-- ⚡️Fun fact: I love sports, movies and travel to unknown places
+- ☸️ I'm currently working with microservices architectures.
+- 🧐 I'm always learning something new
+- 👯 I'm looking to collaborate with other devs
+- 🥅 2021 goals: To be alive and contribute more to Open Source Projects 👨🏽‍💻
+- ⚡️ Fun fact: I love sports, movies and travel to unknown places
 
 ### Languages and Tools:
 
@@ -28,7 +29,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/873/873107.svg" />
+<img align="left" alt="Azure" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/873/873107.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="GitLab" width="26px" src="https://avatars0.githubusercontent.com/u/1086321?s=200&v=4" />
@@ -36,7 +37,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="WebStorm" width="26px" src="https://confluence.jetbrains.com/download/thumbnails/51943829/WebStorm_400x400_Twitter_logo_white.png?version=1&modificationDate=1451316090000&api=v2" />
 
-
+<br />
 
 [twitter]: https://twitter.com/sagiomc
 [instagram]: https://www.instagram.com/gcmsantiago
