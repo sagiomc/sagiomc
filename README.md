@@ -1,7 +1,7 @@
 <h2>Hi there, I'm Gio! 👋🏽</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Sr Software Engineer at <a href="https://www.kavak.com" target="_blank" rel="noopener noreferrer">Kavak</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Sr Software Engineer at <a href="https://www.kavak.com" target="_blank" rel="noopener noreferrer">Kavak&nbsp;</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 </em></p>
 
 [<img align="left" alt="sagiomc | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
